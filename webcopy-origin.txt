@@ -1,0 +1,104 @@
+Uri: https://cdn-uicons.flaticon.com/uicons-brands/css/uicons-brands.css
+File Name: C:\Downloaded Web Sites\j3fferson-dead.github.io\uicons-brands\css\uicons-brands.css
+Content Type: text/css
+
+Uri: https://cdn-uicons.flaticon.com/uicons-brands/webfonts/uicons-brands.eot
+File Name: C:\Downloaded Web Sites\j3fferson-dead.github.io\uicons-brands\webfonts\uicons-brands.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn-uicons.flaticon.com/uicons-brands/webfonts/uicons-brands.woff
+File Name: C:\Downloaded Web Sites\j3fferson-dead.github.io\uicons-brands\webfonts\uicons-brands.woff
+Content Type: font/woff
+
+Uri: https://cdn-uicons.flaticon.com/uicons-brands/webfonts/uicons-brands.woff2
+File Name: C:\Downloaded Web Sites\j3fferson-dead.github.io\uicons-brands\webfonts\uicons-brands.woff2
+Content Type: font/woff2
+
+Uri: https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css
+File Name: C:\Downloaded Web Sites\j3fferson-dead.github.io\uicons-regular-rounded\css\uicons-regular-rounded.css
+Content Type: text/css
+
+Uri: https://cdn-uicons.flaticon.com/uicons-regular-rounded/webfonts/uicons-regular-rounded.eot
+File Name: C:\Downloaded Web Sites\j3fferson-dead.github.io\uicons-regular-rounded\webfonts\uicons-regular-rounded.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn-uicons.flaticon.com/uicons-regular-rounded/webfonts/uicons-regular-rounded.woff
+File Name: C:\Downloaded Web Sites\j3fferson-dead.github.io\uicons-regular-rounded\webfonts\uicons-regular-rounded.woff
+Content Type: font/woff
+
+Uri: https://cdn-uicons.flaticon.com/uicons-regular-rounded/webfonts/uicons-regular-rounded.woff2
+File Name: C:\Downloaded Web Sites\j3fferson-dead.github.io\uicons-regular-rounded\webfonts\uicons-regular-rounded.woff2
+Content Type: font/woff2
+
+Uri: https://cdn-uicons.flaticon.com/uicons-solid-rounded/css/uicons-solid-rounded.css
+File Name: C:\Downloaded Web Sites\j3fferson-dead.github.io\uicons-solid-rounded\css\uicons-solid-rounded.css
+Content Type: text/css
+
+Uri: https://cdn-uicons.flaticon.com/uicons-solid-rounded/webfonts/uicons-solid-rounded.eot
+File Name: C:\Downloaded Web Sites\j3fferson-dead.github.io\uicons-solid-rounded\webfonts\uicons-solid-rounded.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn-uicons.flaticon.com/uicons-solid-rounded/webfonts/uicons-solid-rounded.woff
+File Name: C:\Downloaded Web Sites\j3fferson-dead.github.io\uicons-solid-rounded\webfonts\uicons-solid-rounded.woff
+Content Type: font/woff
+
+Uri: https://cdn-uicons.flaticon.com/uicons-solid-rounded/webfonts/uicons-solid-rounded.woff2
+File Name: C:\Downloaded Web Sites\j3fferson-dead.github.io\uicons-solid-rounded\webfonts\uicons-solid-rounded.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js
+File Name: C:\Downloaded Web Sites\j3fferson-dead.github.io\particles.js\2.0.0\particles.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap
+File Name: C:\Downloaded Web Sites\j3fferson-dead.github.io\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30wWw.ttf
+File Name: C:\Downloaded Web Sites\j3fferson-dead.github.io\s\lato\v24\S6u8w4BMUTPHh30wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxswWw.ttf
+File Name: C:\Downloaded Web Sites\j3fferson-dead.github.io\s\lato\v24\S6u8w4BMUTPHjxswWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50Xew8.ttf
+File Name: C:\Downloaded Web Sites\j3fferson-dead.github.io\s\lato\v24\S6u9w4BMUTPHh50Xew8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVew8.ttf
+File Name: C:\Downloaded Web Sites\j3fferson-dead.github.io\s\lato\v24\S6u9w4BMUTPHh6UVew8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USew8.ttf
+File Name: C:\Downloaded Web Sites\j3fferson-dead.github.io\s\lato\v24\S6u9w4BMUTPHh7USew8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHvxk.ttf
+File Name: C:\Downloaded Web Sites\j3fferson-dead.github.io\s\lato\v24\S6uyw4BMUTPHvxk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wiPHA.ttf
+File Name: C:\Downloaded Web Sites\j3fferson-dead.github.io\s\lato\v24\S6u_w4BMUTPHjxsI3wiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wqPHA.ttf
+File Name: C:\Downloaded Web Sites\j3fferson-dead.github.io\s\lato\v24\S6u_w4BMUTPHjxsI5wqPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2PHA.ttf
+File Name: C:\Downloaded Web Sites\j3fferson-dead.github.io\s\lato\v24\S6u_w4BMUTPHjxsI9w2PHA.ttf
+Content Type: font/ttf
+
+Uri: https://j3fferson-dead.github.io/
+File Name: C:\Downloaded Web Sites\j3fferson-dead.github.io\index.htm
+Content Type: text/html
+
+Uri: https://j3fferson-dead.github.io/app.js
+File Name: C:\Downloaded Web Sites\j3fferson-dead.github.io\app.js
+Content Type: application/javascript
+
+Uri: https://j3fferson-dead.github.io/styles.css
+File Name: C:\Downloaded Web Sites\j3fferson-dead.github.io\styles.css
+Content Type: text/css
+
